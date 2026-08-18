@@ -26,10 +26,11 @@
 
 ![kuva](kuva.png)
 
-```
-joku
-aita
+```python
+syntax
+koodi
 palikka
+nyt pythonilla
 ```
 
 |nimi|sukunimi|
