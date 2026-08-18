@@ -33,7 +33,7 @@
 
 [^1]: testi
 
-### header {#id}
+
 
 ~~testi~~
 
@@ -42,8 +42,6 @@
 
 emoji :joy:
 
-==korostus==
 
 H~2~O
 
-X^2^
