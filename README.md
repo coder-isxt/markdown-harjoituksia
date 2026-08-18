@@ -18,7 +18,6 @@
 
 `koodi`
 
---- sääntö
 
 [linkki](https://google.com)
 
