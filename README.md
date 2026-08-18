@@ -21,7 +21,7 @@
 
 `koodi`
 
-#matikka 
+# matikka
 $E = mc^2$
 
 
