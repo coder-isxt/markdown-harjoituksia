@@ -1,2 +1,2 @@
 # markdown-harjoituksia
-[testi](https://google.com)
+[CODE] texti [/CODE]
