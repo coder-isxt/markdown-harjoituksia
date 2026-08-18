@@ -24,7 +24,7 @@
 
 [linkki](https://google.com)
 
-![alt text](kuva.png "kuvakkeen otsikko")
+![kuva tekstillä](kuva.png "kuvakkeen otsikko")
 
 ```python
 syntax
