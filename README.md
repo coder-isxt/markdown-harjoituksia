@@ -23,7 +23,9 @@
 
 ![kuva](kuva.png)
 
-```joku aita palikka```
+```joku
+aita
+palikka```
 
 |nimi|sukunimi|
 |-----------|-----------|
